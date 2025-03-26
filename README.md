@@ -29,7 +29,7 @@ ResuMate is an intelligent resume optimization system that leverages AI to help 
 - 🤖 AI-Powered Resume Optimization
 - ⚡ Real-time Processing Status
 - 📊 Resume Match Statistics
-- 🌓 Dark/Light Mode Support
+- 🌓 Dark/Light Mode Support (Not yet implemented)
 - 🔒 Secure File Handling
 - 📱 Responsive Design
 
