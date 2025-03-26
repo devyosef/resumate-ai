@@ -9,7 +9,7 @@
 [![Flowbite](https://img.shields.io/badge/Flowbite-0.10.2-3B82F6?style=for-the-badge&logo=flowbite)](https://flowbite.com/)
 [![Docker](https://img.shields.io/badge/Docker-27.1.1-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![WebSocket](https://img.shields.io/badge/WebSocket-Enabled-4479A1?style=for-the-badge&logo=websocket)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
-[![Terraform](https://img.shields.io/badge/Terraform-1.7.5-7B42BC?style=for-the-badge&logo=terraform)](https://www.terraform.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-1.11.3-7B42BC?style=for-the-badge&logo=terraform)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/AWS-Infrastructure-orange?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-Powered-412991?style=for-the-badge&logo=openai)](https://openai.com/)
 [![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)](https://www.python.org/)
