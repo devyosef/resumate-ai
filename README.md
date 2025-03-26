@@ -15,6 +15,8 @@
 [![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 
+[![bzU2A.gif](https://s6.gifyu.com/images/bzU2A.gif)](https://gifyu.com/image/bzU2A)
+
 </div>
 
 ## 📖 Overview
